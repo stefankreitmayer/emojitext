@@ -2,6 +2,16 @@
 
 Ruby program that takes some text and translates it into emoji-based text, using a custom 5x5 alphabet
 
+## Example
+
+```
+✨✨💙✨✨
+✨💙✨💙✨
+💙💙💙💙💙
+💙✨✨✨💙
+💙✨✨✨💙
+```
+
 ## Requirements
 
 Ruby, Bundler

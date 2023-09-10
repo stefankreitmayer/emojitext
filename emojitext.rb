@@ -5,5 +5,4 @@ require_relative 'alphabet'
 
 alphabet = Alphabet.new
 
-# puts alphabet.render_character('a', '✨', '❤️')
-puts alphabet.render_character('a', '🤍', '✨')
+puts alphabet.render_character('a', '💙', '✨')
